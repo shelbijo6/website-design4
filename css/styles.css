@@ -10,14 +10,19 @@
   font-family: 'Lato', sans-serif;
 }
 
+a:hover, a:active {
+  text-decoration: underline;
+  border-bottom: 2px solid transparent;
+}
+
 a {
   text-decoration: none;
 }
 
 header {
   text-align: right;
-  word-spacing: 60px;
-  font-size: 13px;
+  word-spacing: 65px;
+  font-size: 14px;
 }
 
 section {
